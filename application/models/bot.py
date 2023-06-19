@@ -10,3 +10,4 @@ import os
 import secret_key
 
 llm = OpenAI(openai_api_key=secret_key.openai_api_key, model_name='text-davinci-003')
+print('done')
