@@ -1,5 +1,5 @@
 # LangChain_demo
-Simple Large Language Model (LLM) for learning purposes using LangChain and OpenAI to create different LLM bots, including a document Q&A chatbot.
+Simple Large Language Model (LLM) for learning purposes using LangChain and OpenAI to create different LLM bots, including a document Q&A bot and a chatbot application built with Streamlit.
 
 
 Requirement:
