@@ -6,7 +6,7 @@ Requirement:
 
 create secret_key.py file inside models directory.
 
-Inside this .py file, add the following two line and add your API keys:
+Inside this .py file, add the following two lines and add your API keys:
 
 openai_api_key = 'YOUR OPENAI API KEY'
 
