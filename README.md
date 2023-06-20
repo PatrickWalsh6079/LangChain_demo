@@ -10,4 +10,4 @@ Inside this .py file, add the following two line and add your API keys:
 
 openai_api_key = 'YOUR OPENAI API KEY'
 
-huggingface_token = 'YOUR HUGGINGFACE TOKEN'
+HUGGINGFACEHUB_API_TOKEN = 'YOUR HUGGINGFACE TOKEN'

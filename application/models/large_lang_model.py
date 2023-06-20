@@ -4,13 +4,13 @@ from langchain.llms import HuggingFaceHub
 from application.models import secret_key
 
 
-def large_lang(model_name='google/flan-t5-large', key=secret_key.huggingface_token):
+def large_lang(model_name='google/flan-t5-large', key=secret_key.HUGGINGFACEHUB_API_TOKEN):
     """
     model_name='text-davinci-003'
     key=secret_key.openai_api_key
 
     model_name = 'google/flan-t5-large'
-    key=secret_key.huggingface_token
+    key=secret_key.HUGGINGFACEHUB_API_TOKEN
     :param key:
     :param model_name:
     :return: execute run
